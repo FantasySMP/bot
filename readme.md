@@ -1,6 +1,6 @@
-# Dhamz BOT
+# Fantasy BOT
 Hanya Bot Biasa :v
-# dhamz BOT
+# Fantasy BOT
 Recode SC : Nurutomo
 
 ### FOR TERMUX USER
@@ -11,7 +11,7 @@ Recode SC : Nurutomo
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install unzip -y
-> git clone https://github.com/idhamthoriqbot/bot
+> git clone https://github.com/FantasySMP/bot
 > cd bot
 > unzip dhamzbot.zip
 > npm install
@@ -29,7 +29,7 @@ Recode SC : Nurutomo
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/idhamthoriqbot/bot
+> git clone https://github.com/FantasySMP/bot
 > cd bot
 >npm install
 ```
@@ -147,4 +147,4 @@ Recode SC : Nurutomo
 
 
 ##### Created By : [`Nurutomo`](https://GitHub.com/Nurutomo) 
-##### Recode : [`DHAMZ`](https://GitHub.com/idhamthoriqbot) 
+##### Recode : [`Senya`](https://GitHub.com/FantasySMP) 
